@@ -1,0 +1,39 @@
+Vamos praticar! (aula 01)
+
+- Sintaxe básica;
+- Formas de uso do CSS:
+    - Propriedade;
+    - Tag <style>;
+    - Arquivo externo.
+
+
+Vamos praticar! (aula 02)
+
+- Aplicação do conteúdo aprendido na aula 01.
+
+
+Vamos praticar! (aula 03)
+
+- Modos de referência:
+    - Elemento;
+    - Classes;
+    - ID.
+
+
+Vamos praticar! (aula 04)
+
+- Cores:
+    - Nome (em inglês);
+    - Hexadecimal;
+    - RGB.
+
+
+Vamos praticar! (aula 05)    
+
+- Div's e Elementos semânticos:
+    - Div;
+    - Header;
+    - Nav;
+    - Section;
+    - Main;
+    - Footer.

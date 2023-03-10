@@ -36,4 +36,4 @@ Vamos praticar! (aula 05)
     - Nav;
     - Section;
     - Main;
-    - Footer.
+    - Footer. 
